@@ -1,5 +1,11 @@
 # food and cooking
 
+## usage
+
+1. Be on a Mac/Linux-based system
+1. Run `compile.sh`
+1. Enjoy the noms
+
 ## recipe scheme
 
 Recipe filenames follow a convention:
@@ -34,3 +40,8 @@ In addition, the first file of the category (0000, 1000, 2000) will be the title
 2000-bread-pastries-intro.md
 3000-stews-intro.md
 ```
+
+## dev resources
+
+- https://pandoc.org/MANUAL.html#variables-for-latex
+- https://dev.to/learnbyexample/customizing-pandoc-to-generate-beautiful-pdfs-from-markdown-3lbj
