@@ -1,0 +1,10 @@
+---
+title: RECIPES
+subtitle: 'v1.1'
+description: Home recipe book, compiled over time
+subject: Home recipe book, compiled over time
+author: RJ Salvador
+date: January 2021
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+language: en-CA
+...
