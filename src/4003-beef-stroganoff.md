@@ -25,3 +25,5 @@
 1. Stir in sour cream, Dijon mustard, salt + pepper to taste
 1. Return meat and juices to the skillet. Simmer (not boil) until the meat is heated through but still medium rare (~2 minutes)
 1. Serve immediately with fresh egg noodles or rice
+
+\newpage

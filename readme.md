@@ -41,6 +41,14 @@ In addition, the first file of the category (0000, 1000, 2000) will be the title
 3000-stews-intro.md
 ```
 
+## dependencies (linux packages)
+
+Not sure which ones are actually required, but using all these on a fresh pandoc install worked for me (on Linux Mint)
+
+- texlive-fonts-extra
+- texlive-latex-extra
+- texlive-fonts-recommended
+
 ## dev resources
 
 - https://pandoc.org/MANUAL.html#variables-for-latex
