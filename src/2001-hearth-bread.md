@@ -16,4 +16,4 @@ King Arthur's finest
 1. Set in a greased bowl and let rise for an hour (or until dough volume doubles)
 1. Form into two loaves, set on baking sheet or loaf pans. let rise for another hour (or until dough volume doubles)
 
-\newpage
+

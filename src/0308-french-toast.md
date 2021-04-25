@@ -17,4 +17,4 @@
 1. Mix all ingredients in a large bowl
 1. For each slice, soak it into the egg mixture and fry until golden brown on both sides
 
-\newpage
+

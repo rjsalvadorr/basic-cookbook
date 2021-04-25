@@ -24,6 +24,3 @@ Based on a recipe by Vanjo Merano (panlasangpinoy.com)
 **NOTES**
 
 - soy sauce : vinegar : water ratio = 2 : 1 : 4
-- Adobo Borgoña (variation): add 1/2 red wine
-
-\newpage 

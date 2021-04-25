@@ -20,4 +20,4 @@ Based on a recipe by Vanjo Merano (panlasangpinoy.com)
 1. Heat the pan and pour the cooking oil
 1. Fry the eggplant (that was dipped in the beaten mixture). Makes sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat.
 
-\newpage
+

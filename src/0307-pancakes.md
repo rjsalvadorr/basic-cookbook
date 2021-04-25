@@ -19,4 +19,4 @@
 1. Mix the flour and baking powder together in a large bowl, then mix the liquids in
 1. Make pancakes
 
-\newpage
+

@@ -17,4 +17,4 @@
 1. If using a rice cooker, just cook the rice with a typical setting. If using a pot, start cooking on high and set on low as soon as it boils.
 1. When the rice is finished cooking, put the cooked beans on top. Leave to steam gently for 20 minutes
 
-\newpage
+

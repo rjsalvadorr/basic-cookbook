@@ -16,4 +16,4 @@ Makes 20 tortillas
 1. Cook the tortillas on a non stick pan at medium-high heat.
 1. Transfer tortillas to a clean kitchen towel and wrap to ensure they do not dry out.
 
-\newpage
+

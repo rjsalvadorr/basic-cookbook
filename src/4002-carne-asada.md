@@ -17,4 +17,4 @@ Makes 12 tacos
 1. Set up a cast iron pan on high heat. Remove steak from the marinade and remove excess liquid. Add oil to the pan, when it starts smoking carefully place the beef on the pan and sear for 3 minutes on each side, take the meat out of the pan and let it rest for at least 5 minutes.
 1. Slice thinly against the grain and place meat on serving plate.
 
-\newpage
+

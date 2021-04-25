@@ -34,4 +34,4 @@ Equipment required:
 - Jigger with pony 
 - Glassware: rocks glass or coupe
 
-\newpage
+

@@ -23,4 +23,4 @@ Adapted from a recipe by Cynthia Salvador
 1. Add vegetables on top, and put a lid on the pot. Steam vegetables for 15 minutes, then mix into the sauce.
 1. Let sit for 10 minutes, and it’s ready to serve.
 
-\newpage
+

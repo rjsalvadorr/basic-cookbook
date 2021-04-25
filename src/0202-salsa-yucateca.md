@@ -20,4 +20,4 @@
 1. Let it sit for at least an hour.
 1. Salsa can be stored for 2 weeks but it’s at it’s best after 3 days.
 
-\newpage
+
