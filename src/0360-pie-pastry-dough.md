@@ -20,5 +20,3 @@ One 9-10 inch double crust
 **NOTES**
 
 For a richer version, replace the lard/shortening with 1 cup of butter and replace the butter with 1/4 cup chilled veg. shortening.
-
-

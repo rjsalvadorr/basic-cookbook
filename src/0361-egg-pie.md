@@ -1,6 +1,8 @@
-## Egg Pie Filling
+## Egg Pie
 
-**INGREDIENTS**
+For one 9-inch single-crust pie
+
+**INGREDIENTS (FILLING)**
 
 - 1 3/4 cups evaporated milk
 - 3 eggs
