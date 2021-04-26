@@ -9,6 +9,6 @@
 
 **INSTRUCTIONS**
 
-- Remove stems from chilies
-- Mix all ingredients in a jar or bottle
-- Store in refrigirator
+1. Remove stems from chilies
+1. Mix all ingredients in a jar or bottle
+1. Store in refrigirator
