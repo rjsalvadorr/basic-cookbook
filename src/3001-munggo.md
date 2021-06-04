@@ -1,8 +1,6 @@
 ## Munggo
 
-Based on a recipe by Vanjo Merano (panlasangpinoy.com)
-
-You’ll need a large pot and large pan (or two pots) to cook this dish.
+Based on a recipe by Vanjo Merano (panlasangpinoy.com). You’ll need a large pot and large pan (or two pots) to cook this dish.
 
 **INGREDIENTS**
 

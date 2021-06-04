@@ -8,10 +8,9 @@
 - 1 large red onion, thinly sliced
 - 1 tsp dried oregano
 - 2 tsp kosher or sea salt
-- 1/4 cup/60 ml of white vinegar.
+- 3 tbsp white vinegar
+- 3 tbsp extra virgin olive oil
 - The juice of 1 lime
-- 1 tbsp white vinegar
-- 1/4 cup/60 ml extra virgin olive oil
 
 **INSTRUCTIONS**
 
@@ -19,5 +18,3 @@
 1. Mix thoroughly and transfer to a jar that fits in the fridge, make sure everything is submerged in the liquid.
 1. Let it sit for at least an hour.
 1. Salsa can be stored for 2 weeks but it’s at it’s best after 3 days.
-
-

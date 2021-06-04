@@ -1,4 +1,4 @@
-# Empanadas
+## Empanadas
 
 **INGREDIENTS**
 
@@ -61,3 +61,5 @@
 1. Preheat oven to 200°C (400°F).
 1. Arrange empanadas on a greased baking sheet. With a knife make 2-3 slits on the surface of each puff to allow steam to escape while baking.
 1. Bake puffs in preheated oven for about 20 minutes or until lightly browned. Set aside for a few minutes to cool before serving.
+
+\newpage

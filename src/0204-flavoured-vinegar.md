@@ -1,4 +1,4 @@
-## Flavoured vinegar
+## Flavoured Vinegar
 
 **INGREDIENTS**
 

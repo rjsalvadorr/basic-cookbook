@@ -14,7 +14,7 @@ You’ll need a large pot and large pan (or two pots) to cook this dish.
 * 1 onion (chopped)
 * 3 cloves garlic (minced)
 * 1 beef bouillon cube
-* 1 tsp soy sauce
+* 1 tbsp soy sauce
 * 1 tsp black pepper
 
 **INSTRUCTIONS**
@@ -26,4 +26,4 @@ You’ll need a large pot and large pan (or two pots) to cook this dish.
 1. Pour 1/2 tbsp oil on frying pan. Pan-fry potatoes and carrots for about 10 minutes, then add it all to the pot. Boil for 10 more minutes
 1. Add bell peppers. Turn off the heat, leave aside for 5 minutes, and it’s ready to enjoy.
 
-
+\newpage

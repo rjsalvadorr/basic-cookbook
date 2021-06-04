@@ -14,16 +14,16 @@
 
 Green Tea Syrup
 
-- Take 500g of boiling water steeped with 4 green tea bags for 20 minutes
-- Mix the hot tea with 500g sugar for a 1:1 green tea syrup
+1. Take 500g of boiling water steeped with 4 green tea bags for 20 minutes
+1. Mix the hot tea with 500g sugar for a 1:1 green tea syrup
 
 Cocktail
 
-- Take all ingredients minus garnish and add it to the tin.
-- Add ice and then add the top tin.
-- Seal both tins and shake. 
-- Open the tins and place Hawthorne strainer on the tin with ingredients
-- Pour into glass
+1. Take all ingredients minus garnish and add it to the tin.
+1. Add ice and then add the top tin.
+1. Seal both tins and shake. 
+1. Open the tins and place Hawthorne strainer on the tin with ingredients
+1. Pour into glass
 
 **NOTES**
 
