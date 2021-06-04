@@ -2,7 +2,7 @@
 
 **INGREDIENTS**
 
-- 375 ml (1½ cups) fresh milk
+- 375 ml (11/2 cups) fresh milk
 
 mixed with
 
@@ -11,8 +11,8 @@ mixed with
 
 OR
 
-- 65 g (½ cup) cocoa powder
-- 100 g (½ cup) sugar
+- 65 g (1/2 cup) cocoa powder
+- 100 g (1/2 cup) sugar
 
 **INSTRUCTIONS**
 

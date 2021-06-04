@@ -4,12 +4,12 @@
 
 **Crust**
 
-- 300 g (2½ cups) flour, plus extra for dusting
+- 300 g (2 1/2 cups) flour, plus extra for dusting
 - 3 tablespoons sugar
-- ½ teaspoon baking powder
-- ½ teaspoon salt
-- 65 g (⅓ cup) chilled solid vegetable shortening
-- 125 g (½ cup) butter
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon salt
+- 65 g (1/3 cup) chilled solid vegetable shortening
+- 125 g (1/2 cup) butter
 - 6-7 tablespoons iced water
 - 1 egg, lightly beaten
 - 1 tablespoon water
@@ -18,16 +18,16 @@
 
 - 1 tablespoon oil
 - 1 tablespoon butter
-- ½ medium onion, minced
+- 1/2 medium onion, minced
 - 3-4 cloves garlic, minced
 - 450 g (1 lb) meat, finely diced or ground
 - 1 small potato, diced
 - 1 small carrot, diced
 - 250 ml (1 cup) water or broth
 - 100 g (1 cup) green peas (thawed, if frozen)
-- 100 g (½ cup) raisins (optional)
+- 100 g (1/2 cup) raisins (optional)
 - 2 teaspoons salt
-- ½ teaspoon pepper
+- 1/2 teaspoon pepper
 
 **INSTRUCTIONS**
 
@@ -51,7 +51,7 @@
 **Prep**
 
 1. Remove chilled dough from refrigerator. Lightly flour a pastry board or clean table top.
-1. Using a rolling pin, roll out dough on a pastry board until it is 3 mm (⅛ in) thick. Don't roll it too thin or it will break when baked.
+1. Using a rolling pin, roll out dough on a pastry board until it is 3 mm (1/8 in) thick. Don't roll it too thin or it will break when baked.
 1. Cut 10 cm (4 in) circles using a cutter and a small bowl. Gather the scraps and re-roll them so they can be used again. You should get about 20 pastry circles.
 1. Spoon about 1-2 teaspoons Filling into the middle of each pastry circle. Fold the circle so the edges meet and filling is sealed. Press the edges of the pastry with the tines of a fork.
 1. Combine lightly beaten egg with 1 tablespoon of water. Brush surface of each folded puff with egg mixture.
