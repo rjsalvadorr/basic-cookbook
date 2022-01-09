@@ -2,14 +2,14 @@
 
 ## usage
 
-### Linux-based/Mac systems
-
-1. Run `compile.sh`
-1. Enjoy the noms
-
 ### Windows systems
 
 1. Run `compile.ps1`
+1. Enjoy the noms
+
+### Linux-based/Mac systems
+
+1. Run `compile.sh`
 1. Enjoy the noms
 
 ## recipe scheme
@@ -49,16 +49,17 @@ In addition, the first file of the category (0000, 1000, 2000) will be the title
 
 ## dependencies
 
-https://www.latex-project.org/get/
+- pandoc -- https://pandoc.org/
+- LaTeX -- https://www.latex-project.org/get/
 
 ### windows
 
 1. download MiKTeX: https://miktex.org/download
 1. updated MiKTeX: https://miktex.org/howto/update-miktex
 
-### linux packages
+### linux
 
-Not sure which ones are actually required, but using all these on a fresh pandoc install worked for me (on Linux Mint)
+Not sure which packages are actually required, but using all these on a fresh pandoc install worked for me (on Linux Mint)
 
 - texlive-fonts-extra
 - texlive-latex-extra
