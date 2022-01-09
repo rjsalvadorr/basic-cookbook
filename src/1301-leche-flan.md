@@ -26,4 +26,4 @@ Custard
 1. Mix all ingredients in a large mixing bowl.
 1. When the water for the steamer is nearly boiling, fill the containers with custard. Don't fill all the way to the top! Leave at least 1/4" or 5mm of space below the brim.
 1. Add the containers to the steamer, and cover with foil.
-1. Steam for 20 to 30 minutes
+1. Steam for about 25 minutes

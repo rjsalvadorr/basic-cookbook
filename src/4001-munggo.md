@@ -16,6 +16,12 @@ Based on a recipe by Vanjo Merano (panlasangpinoy.com). You’ll need a large po
 * 1/2 tsp ground black pepper
 * 1 package chicharron (fried pork skins), optional
 
+INSTANT POT MINI
+
+- use 1 1/2 cups Mung beans
+- use 1.5 L water (6 cups)
+- cook for 20 mins with low pressure
+
 **INSTRUCTIONS**
 
 1. In the large pot, put in the water and bring to a boil

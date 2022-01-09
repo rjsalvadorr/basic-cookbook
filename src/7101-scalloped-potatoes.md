@@ -5,7 +5,9 @@
 **INGREDIENTS**
 
 - 3 potatoes
+- 1 1/4 cups milk/cream
 - 2 1/4 tsp salt
+- 1/4 tsp paprika
 - 2 tbsp flour
 - 3 to 6 tbsp butter
 - 1/4 cup chopped chives or green onions

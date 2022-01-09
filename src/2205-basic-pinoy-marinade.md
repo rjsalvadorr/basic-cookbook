@@ -2,7 +2,7 @@
 
 **INGREDIENTS**
 
-- 1 cup dark soy sauce
+- 3/4 cup dark soy sauce
 - 1/2 cup vinegar
 - 1/2 cup oil
 - 1 onion, minced

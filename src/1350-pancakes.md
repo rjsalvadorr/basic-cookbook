@@ -13,10 +13,13 @@
 - 2 eggs
 - 1/2 tsp vanilla extract
 
+EXTRAS
+
+- 1 tbsp coconut milk -- makes for more creaminess and fluffiness
+- 1 tbsp cocoa powder
+
 **INSTRUCTIONS**
 
 1. Mix the butter, sugar, eggs, milk, and vanilla extract in a small bowl
 1. Mix the flour and baking powder together in a large bowl, then mix the liquids in
 1. Make pancakes
-
-
