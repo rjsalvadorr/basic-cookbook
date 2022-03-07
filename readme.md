@@ -26,20 +26,6 @@ Recipe filenames consist of a four-digit code, then hyphenated name.
 The first two digits specify type/category, and the second two digits are the ID in that category
 The codes correspond to type:
 
-<!--
-- 0100 to 0199: SNACKS
-- 0200 to 0299: SAUCES, DRESSINGS, MARINADES
-- 0300 to 0399: DESSERTS
-- 0400 to 0499: DRINKS
-- 0500 to 0599: SOUPS
-- 1000 to 1099: RICE, GRAINS, LEGUMES
-- 2000 to 2099: BREAD, PASTRIES
-- 3000 to 3099: STEWS
-- 4000 to 4099: MEAT ENTREES
-- 5000 to 5099: VEGETABLE ENTREES
-- 6000 to 6099: DUMPLINGS, ROLLS, PATTIES
--->
-
 - 1000 to 1999: SNACKS & DESSERTS
 - 2000 to 2999: SAUCES, DRESSINGS, MARINADES
 - 3000 to 3999: DRINKS

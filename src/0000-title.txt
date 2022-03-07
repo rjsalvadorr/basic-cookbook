@@ -1,6 +1,6 @@
 ---
 title: RECIPES
-subtitle: 'v1.2'
+subtitle: 'v1.3'
 description: Home recipe book
 subject: Home recipe book
 author: RJ Salvador

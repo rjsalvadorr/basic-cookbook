@@ -16,4 +16,4 @@ NOTE: These rolls should not be fried for too long. The goal when cooking these 
 1. Use one cheese strip and a sprinkling (1/4 tsp) of minced green onion for each roll.
 1. Deep fry rolls until they're slightly browned. Do not overcook (see note above)
 
-\newpage
+

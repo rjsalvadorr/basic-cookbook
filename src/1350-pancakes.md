@@ -23,3 +23,5 @@ EXTRAS
 1. Mix the butter, sugar, eggs, milk, and vanilla extract in a small bowl
 1. Mix the flour and baking powder together in a large bowl, then mix the liquids in
 1. Make pancakes
+
+\newpage

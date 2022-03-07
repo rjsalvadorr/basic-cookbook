@@ -20,5 +20,3 @@
 **NOTES**
 
 - You may have to add water to the coconut milk for proper consistency.
-
-\newpage
