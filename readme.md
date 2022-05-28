@@ -1,4 +1,6 @@
-# food and cooking
+# basic-cookbook
+
+Recipes collected over time
 
 ## Usage
 
@@ -47,13 +49,15 @@ In addition, the first file of the category (0000, 1000, 2000) will be the title
 
 ## Dependencies
 
-- pandoc -- https://pandoc.org/
-- LaTeX -- https://www.latex-project.org/get/
+- pandoc: https://pandoc.org/
+- LaTeX: https://www.latex-project.org/get/
 
 ### windows
 
-1. download MiKTeX: https://miktex.org/download
-1. updated MiKTeX: https://miktex.org/howto/update-miktex
+- pandoc: https://pandoc.org/
+- MiKTeX
+    + download: https://miktex.org/download
+    + update: https://miktex.org/howto/update-miktex
 
 ### linux
 
